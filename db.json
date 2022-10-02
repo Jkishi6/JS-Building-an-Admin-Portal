@@ -31,6 +31,14 @@
       "year": 2010,
       "quantity": "4",
       "imageURL": "/assets/warp.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "dune",
+      "year": "1965",
+      "quantity": "6",
+      "imageURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458.jpg",
+      "description": "\"Dune\" tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people."
     }
   ]
 }
